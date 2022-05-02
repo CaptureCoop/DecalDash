@@ -1,0 +1,10 @@
+/bin/
+/DecalDash/
+/.classpath
+/.project
+/.idea/
+/out/
+/.gradle/
+/build/
+/release/*
+DecalDash.iml
